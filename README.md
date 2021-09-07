@@ -4,5 +4,5 @@ Wordpress course - building a custom Wordpress Theme and Plugins
 
 ## To Run
 
-Install npm
-npm run start
+1) Install npm.
+2) npm run start
